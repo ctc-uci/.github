@@ -1,7 +1,7 @@
 ## 💜 Welcome to Commit the Change's GitHub home!
 ***We are a student organization at UC Irvine whose mission is to deliver high-quality software for non-profit organizations while giving students meaningful opportunities to develop `tech with purpose`.*** 🚀
 
-Commit the Change (CTC) was founded in early 2020 by a small group of UC Irvine students looking to help nonprofits in the Orange County area, but has since grown into a team of over 70 members, with 5 completed software projects and counting. We were the **Best New Organization** and the winner of the **Outstanding Virtual Service Initiative Award** at UCI's 2020 Anteater Awards, following the completion of our first year as an official student organization at UCI.
+Commit the Change (CTC) was founded in early 2020 by a small group of UC Irvine students looking to help nonprofits in the Orange County area, but has since grown into a team of over 70 members, with 15 completed software projects and counting. We were the **Best New Organization** and the winner of the **Outstanding Virtual Service Initiative Award** at UCI's 2020 Anteater Awards, following the completion of our first year as an official student organization at UCI.
 
 ## 🤝 Working with Us
 Each school year (September to June), we work closely with a small group of NPOs to determine how software can alleviate bottlenecks in their operating procedures, facilitate a new initiative, or otherwise support their mission for social good. Once a project is found, our student design and development teams implement an elegant and user-friendly software solution at low or no cost to the NPO.
